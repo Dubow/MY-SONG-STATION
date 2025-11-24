@@ -52,3 +52,27 @@ Designed to look clean, smooth, and professional.
 ## ▶️ Song Rendering
 ### Songs are stored inside script.js:
 ![Song Rendering](./image/Song_Rendering.png)
+
+# 🚀 How to Run the Project
+## 1: Download or clone the repository:
+![clone_repo](./image/clone.png)
+## 2: Make sure your folder structure remains the same (img/ and songs/ must not be renamed)
+## 3: Open index.html in any browser:
+
+### No backend or server required — everything runs in the browser.
+
+# 🛠️ Technologies Used
+
+## HTML5
+## CSS3
+## JavaScript (ES6)
+
+# 📸 Screenshots
+![Desktop View](./image/home_page.png)
+![Desktop View](./image/survey.png)
+
+# 🤝 Contributing
+## Feel free to fork this repo and submit a pull request!
+
+# 📄 License
+## This project is free for personal or educational use.
