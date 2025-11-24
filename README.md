@@ -46,9 +46,9 @@ Designed to look clean, smooth, and professional.
 ### Clean, minimalist light theme
 
 # 🗂️ Project Structure
-![Project Folder Structure](./image/project structure.png)
+![Project Folder Structure](./image/project_structure.png)
 
 # ⚙️ How It Works
 ## ▶️ Song Rendering
 ### Songs are stored inside script.js:
-![Song Rendering](./image/Song Rendering.png)
+![Song Rendering](./image/Song_Rendering.png)
