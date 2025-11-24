@@ -7,14 +7,14 @@ Designed to look clean, smooth, and professional.
 ## 🔍 Song Browsing & Search
 
    ### * Displays all available songs with:
-           #### * Song title
-           #### * Artist
-           #### * Album cover
-           #### * Playable audio
+             * Song title
+             * Artist
+             * Album cover
+             * Playable audio
 
     ### * Search by:
-           #### * Artist name
-           #### * Song title
+             * Artist name
+             * Song title
 
     ### * Reset button to return all songs
 
@@ -46,9 +46,9 @@ Designed to look clean, smooth, and professional.
 ### Clean, minimalist light theme
 
 # 🗂️ Project Structure
-image/Screenshot 2025-11-24 213110.png
+[Project Folder Structure](./image/Screenshot 2025-11-24 213110.png)
 
 # ⚙️ How It Works
 ## ▶️ Song Rendering
 ### Songs are stored inside script.js:
-image/Screenshot 2025-11-24 213417.png
+![Song Rendering](./image/Screenshot 2025-11-24 213417.png)
